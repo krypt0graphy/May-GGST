@@ -1,3 +1,5 @@
+This is an avatar for the Minecraft mod figura
+
 Everything was made by me with the exclusion of:
 
 The scripts SquAPI/SquAssets which belong to https://github.com/MrSirSquishy
